@@ -48,9 +48,3 @@ Frontend developer who focuses on **UX/UI and data-driven web services**.
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact)
